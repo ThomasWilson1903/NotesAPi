@@ -7,6 +7,6 @@
         public string Title { get; set; }
         public string Detailse { get; set; }
         public DateTime CreationDate { get; set; }
-        public DateTime EdirDate { get; set;}
+        public DateTime? EdirDate { get; set;}
     }
 }
